@@ -1,0 +1,11 @@
+C:\Users\MVi\source\repos\cscProgressBar\bin\Debug\netcoreapp3.1\cscProgressBar.exe
+C:\Users\MVi\source\repos\cscProgressBar\bin\Debug\netcoreapp3.1\cscProgressBar.deps.json
+C:\Users\MVi\source\repos\cscProgressBar\bin\Debug\netcoreapp3.1\cscProgressBar.runtimeconfig.json
+C:\Users\MVi\source\repos\cscProgressBar\bin\Debug\netcoreapp3.1\cscProgressBar.runtimeconfig.dev.json
+C:\Users\MVi\source\repos\cscProgressBar\bin\Debug\netcoreapp3.1\cscProgressBar.dll
+C:\Users\MVi\source\repos\cscProgressBar\bin\Debug\netcoreapp3.1\cscProgressBar.pdb
+C:\Users\MVi\source\repos\cscProgressBar\obj\Debug\netcoreapp3.1\cscProgressBar.csprojAssemblyReference.cache
+C:\Users\MVi\source\repos\cscProgressBar\obj\Debug\netcoreapp3.1\cscProgressBar.AssemblyInfoInputs.cache
+C:\Users\MVi\source\repos\cscProgressBar\obj\Debug\netcoreapp3.1\cscProgressBar.AssemblyInfo.cs
+C:\Users\MVi\source\repos\cscProgressBar\obj\Debug\netcoreapp3.1\cscProgressBar.dll
+C:\Users\MVi\source\repos\cscProgressBar\obj\Debug\netcoreapp3.1\cscProgressBar.pdb
